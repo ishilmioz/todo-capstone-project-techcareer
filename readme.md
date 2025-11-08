@@ -128,15 +128,15 @@ ____________________
 
 The backend was developed using Spring Boot.
 
-**Model (Entity):** Represents the Task Entity with ID, Name and Completion statuses.
+- **Model (Entity):** Represents the Task Entity with ID, Name and Completion statuses.
 
-**Repository:** Extends JpaRepository. Required for CRUD operations. Contains custom query methods such as findByCompleted().
+- **Repository:** Extends JpaRepository. Required for CRUD operations. Contains custom query methods such as findByCompleted().
 
-**Service:** The layer where the business logic of the project is placed. Manages operations such as getAllTasks(), saveTask() etc.
+- **Service:** The layer where the business logic of the project is placed. Manages operations such as getAllTasks(), saveTask() etc.
 
-**Controller:** Handles incoming API requests and returns responses. Includes endpoints for creating, editing, deleting tasks.
+- **Controller:** Handles incoming API requests and returns responses. Includes endpoints for creating, editing, deleting tasks.
 
-**Configuration:** Configures CORS to allow requests coming from the frontend running on localhost:3000.
+- **Configuration:** Configures CORS to allow requests coming from the frontend running on localhost:3000.
 
 **FRONTEND**
 
