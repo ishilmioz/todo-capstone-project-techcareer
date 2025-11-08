@@ -71,7 +71,6 @@ Frontend React kullanılarak geliştirilmiştir.
 
 **Diğer ek bileşenler:**
 
-
 - **TaskInput:** Yeni görev eklemek için bileşen.
 
 - **FilterButtons:** Tamamlanma durumlarına göre görev filtrelemeyi sağlar.
@@ -91,7 +90,7 @@ ______________________
 
 For presentation: https://www.canva.com/design/DAFtJnUzNr8/tAOZPMeFiPfS9Ai_yUMEMg/edit?utm_content=DAFtJnUzNr8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-A comprehensive Todo application that allows users to manage, edit, and delete their tasks.
+A comprehensive **Todo** application that allows users to manage, edit, and delete their tasks.
 
 **CONTENTS**
 ____________________
@@ -119,8 +118,8 @@ ____________________
 
 **RUNNING THE PROJECT**
 
-Repository clone: https://github.com/ishilmioz/todo-capstone-project-techcareer.git
-cd techcareer_toDoCapstone
+- Repository clone: https://github.com/ishilmioz/todo-capstone-project-techcareer.git
+- cd techcareer_toDoCapstone
 
 ____________________
 
